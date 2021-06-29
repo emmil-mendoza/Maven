@@ -1,18 +1,16 @@
 package com.emmil;
 
-
-
-public class  Employee {
+public class Employee {
 
 	private double monthlySalary;
 	private String firstName;
 	private String lastName;
-	
+
 	public Employee() {
-		 setMonthlySalary(2000.55);
-		 setFirstName("John");
-		 setLastName("Doe");
-	
+		setMonthlySalary(2000.55);
+		setFirstName("John");
+		setLastName("Doe");
+
 	}
 
 	public double getMonthlySalary() {
@@ -38,16 +36,15 @@ public class  Employee {
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
-	
-	public double yearlySalary ( double y) {
+
+	public double yearlySalary(double y) {
 		y = monthlySalary * 12;
 		return y;
 	}
-	
-	public double yearlySalaryRaise ( double totalAmount) {
-		totalAmount =  (monthlySalary * 12) + (monthlySalary * 12 * 0.1);
+
+	public double yearlySalaryRaise(double totalAmount) {
+		totalAmount = (monthlySalary * 12) + (monthlySalary * 12 * 0.1);
 		return totalAmount;
 	}
-	
-	
+
 }

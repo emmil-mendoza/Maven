@@ -1,13 +1,13 @@
 package com.emmil;
 
 public class Date {
-	
+
 	private int month;
 	private int day;
 	private int year;
-	
+
 	public Date() {
-		
+
 		setMonth(11);
 		setDay(22);
 		setYear(1998);
@@ -36,8 +36,9 @@ public class Date {
 	public void setYear(int year) {
 		this.year = year;
 	}
- public void displayDate () {
- 
-	 System.out.println(month + "/" + day + "/" + year);
- }
+
+	public void displayDate() {
+
+		System.out.println(month + "/" + day + "/" + year);
+	}
 }
