@@ -44,9 +44,9 @@ public class  Employee {
 		return y;
 	}
 	
-	public double yearlySalaryRaise ( double totalAmount) {
-		totalAmount =  (monthlySalary * 12) + (monthlySalary * 12 * 0.1);
-		return totalAmount;
+	public double yearlySalaryRaise ( double total) {
+		total =  (monthlySalary * 12) + (monthlySalary * 12 * 0.1);
+		return total;
 	}
 	
 	
