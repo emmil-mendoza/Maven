@@ -1,0 +1,44 @@
+package com.emmil;
+
+public class Person {
+
+	private String name;
+	private int age;
+	private int shoeSize;
+	
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String newName) {
+		newName = name;
+		name = "Emmil";
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int newAge) {
+		newAge = age;
+		age = 23;
+	}
+
+	public int getShoeSize() {
+		return shoeSize;
+	}
+
+	public void setShoeSize(int newShoeSize) {
+		newShoeSize = shoeSize;
+		shoeSize = 11;
+	}
+
+	public  void walking( ) {
+		System.out.println(name + "\n" + age + "\n" + shoeSize);
+	}
+
+	//public  void startWalking() {
+	//	walking();
+	//}
+}
