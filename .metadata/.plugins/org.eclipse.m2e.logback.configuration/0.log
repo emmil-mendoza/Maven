@@ -455,3 +455,4 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-06-30 09:58:07,223 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-30 09:58:07,224 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
 2021-06-30 09:58:07,227 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 09:58:07,227 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
