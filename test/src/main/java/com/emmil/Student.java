@@ -4,25 +4,25 @@ package com.emmil;
 
 public class Student {
 
-	private int id_number;
-	private String student_name;
+	private int idNumber;
+	private String studentName;
 	private String dob;
-	private int grade_level;
+	private int gradeLevel;
 
-	public int getId_number() {
-		return id_number;
+	public int getidNumber() {
+		return idNumber;
 	}
 
-	public void setId_number(int id_number) {
-		this.id_number = id_number;
+	public void setIdNumber(int idNumber) {
+		this.idNumber = idNumber;
 	}
 
-	public String getStudent_name() {
-		return student_name;
+	public String getStudentName() {
+		return studentName;
 	}
 
-	public void setStudent_name(String student_name) {
-		this.student_name = student_name;
+	public void setStudentName(String studentName) {
+		this.studentName = studentName;
 	}
 
 	public String getDob() {
@@ -33,12 +33,12 @@ public class Student {
 		this.dob = dob;
 	}
 
-	public int getGrade_level() {
-		return grade_level;
+	public int getGradelevel() {
+		return gradeLevel;
 	}
 
-	public void setGrade_level(int grade_level) {
-		this.grade_level = grade_level;
+	public void setGradeLevel(int gradeLevel) {
+		this.gradeLevel = gradeLevel;
 	}
 
 }

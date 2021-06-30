@@ -15,7 +15,6 @@ INDEX VERSION 1.131+C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\T
 2503696852.index
 3717918247.index
 395326781.index
-3271193799.index
 1102226877.index
 2655310788.index
 1039347805.index

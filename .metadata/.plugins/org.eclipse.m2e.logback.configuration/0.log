@@ -329,3 +329,129 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-06-29 17:58:41,431 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-29 17:58:41,431 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
 2021-06-29 17:58:41,431 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 17:58:41,431 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:03:25,779 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:03:25,779 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:03:25,779 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:03:25,779 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:13:08,545 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:13:08,553 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:13:08,555 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:13:08,555 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:17:04,069 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:17:04,069 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:17:04,077 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:17:04,077 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:17:09,260 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:17:09,260 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:17:09,260 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:17:09,260 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:19:30,662 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:19:30,662 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:19:30,662 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:19:30,670 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:52:13,377 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:52:13,377 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:52:13,377 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:52:13,377 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:52:27,951 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:52:27,951 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:52:27,959 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:52:27,959 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:55:44,262 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:55:44,262 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:55:44,262 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:55:44,262 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:58:31,579 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:58:31,579 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:58:31,587 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:58:31,587 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 18:58:37,006 [Worker-62: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:58:37,006 [Worker-62: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 18:58:37,006 [Worker-62: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 18:58:37,006 [Worker-62: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 19:02:00,688 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:02:00,688 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 19:02:00,688 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:02:00,688 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 19:04:04,554 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:04:04,554 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 19:04:04,554 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:04:04,554 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 19:06:41,434 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:06:41,442 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 19:06:41,442 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:06:41,442 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 19:06:53,177 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:06:53,177 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 19:06:53,177 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:06:53,177 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 19:07:18,281 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:07:18,281 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 19:07:18,281 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:07:18,281 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 19:08:13,911 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:08:13,911 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 19:08:13,911 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:08:13,919 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-29 19:09:22,494 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:09:22,494 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-29 19:09:22,494 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 19:09:22,494 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 00:53:14,864 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:53:14,864 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 00:53:14,864 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:53:14,864 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 00:54:12,469 [Worker-68: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:54:12,473 [Worker-68: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 00:54:12,473 [Worker-68: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:54:12,473 [Worker-68: Launching PersonTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 00:58:23,586 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:58:23,586 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 00:58:23,586 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:58:23,586 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 00:58:38,288 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:58:38,288 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 00:58:38,292 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 00:58:38,292 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 01:02:10,065 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:02:10,065 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 01:02:10,065 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:02:10,065 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 01:02:53,384 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:02:53,384 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 01:02:53,384 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:02:53,384 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 01:03:04,330 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:03:04,330 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 01:03:04,330 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:03:04,330 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 01:04:29,086 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:04:29,090 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 01:04:29,090 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:04:29,090 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 01:04:45,651 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-30 01:04:48,535 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.emmil:test:0.0.1-SNAPSHOT @ C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\pom.xml.
+2021-06-30 01:04:49,270 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/main/java
+2021-06-30 01:04:49,274 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/test/java
+2021-06-30 01:04:49,826 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-06-30 01:04:50,317 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:04:50,317 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 01:04:50,317 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 01:04:50,317 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 09:56:03,931 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 09:56:03,933 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 09:56:03,935 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 09:56:03,936 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 09:57:22,554 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 09:57:22,554 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 09:57:22,555 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 09:57:22,556 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\test\resources
+2021-06-30 09:58:03,322 [Worker-117: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-30 09:58:05,760 [Worker-117: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.emmil:test:0.0.1-SNAPSHOT @ C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\pom.xml.
+2021-06-30 09:58:06,413 [Worker-117: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/main/java
+2021-06-30 09:58:06,414 [Worker-117: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/test/java
+2021-06-30 09:58:06,740 [Worker-117: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-06-30 09:58:07,223 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 09:58:07,224 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\emmil_mendoza\Documents\SandBox\Java_SQL_training\Test2\Maven\test\src\main\resources
+2021-06-30 09:58:07,227 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

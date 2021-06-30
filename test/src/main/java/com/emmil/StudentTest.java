@@ -16,13 +16,13 @@ public class StudentTest {
 		String b = sc.nextLine();
 		String c = sc.nextLine();
 		int d = sc.nextInt();
-		s1.setId_number(a);
-		s1.setStudent_name(b);
+		s1.setIdNumber(a);
+		s1.setStudentName(b);
 		s1.setDob(c);
-		s1.setGrade_level(d);
+		s1.setGradeLevel(d);
 
-		System.out.println(infoArray[0] + s1.getId_number() + "\n" + infoArray[1] + s1.getStudent_name());
-		System.out.println(infoArray[2] + s1.getDob() + "\n" + infoArray[3] + s1.getGrade_level());
+		System.out.println(infoArray[0] + s1.getidNumber() + "\n" + infoArray[1] + s1.getStudentName());
+		System.out.println(infoArray[2] + s1.getDob() + "\n" + infoArray[3] + s1.getGradelevel());
 
 	}
 
