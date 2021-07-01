@@ -1,4 +1,4 @@
-package com.emmil.exercises.HelloWorld;
+package com.emmil.exercises.helloworld;
 
 public class HelloWorld {
 

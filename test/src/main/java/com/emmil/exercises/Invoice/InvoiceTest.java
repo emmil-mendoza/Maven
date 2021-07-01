@@ -1,4 +1,4 @@
-package com.emmil.exercises.Invoice;
+package com.emmil.exercises.invoice;
 
 //import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.emmil.exercises.Person;
+package com.emmil.exercises.person;
 
 public class Person {
 

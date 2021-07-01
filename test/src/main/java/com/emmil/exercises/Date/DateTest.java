@@ -1,4 +1,4 @@
-package com.emmil.exercises.Date;
+package com.emmil.exercises.date;
 
 public class DateTest {
 

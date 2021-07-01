@@ -1,4 +1,4 @@
-package com.emmil.exercises.Loops;
+package com.emmil.exercises.loops;
 
 public class Loop {
 

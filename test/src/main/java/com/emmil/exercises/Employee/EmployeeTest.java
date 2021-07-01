@@ -1,4 +1,4 @@
-package com.emmil.exercises.Employee;
+package com.emmil.exercises.employee;
 
 public class EmployeeTest {
 

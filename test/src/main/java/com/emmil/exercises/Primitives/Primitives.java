@@ -1,4 +1,4 @@
-package com.emmil.exercises.Primitives;
+package com.emmil.exercises.primitives;
 
 public class Primitives {
 
