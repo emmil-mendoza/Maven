@@ -1,5 +1,5 @@
 
-package com.emmil;
+package com.emmil.exercises.Date;
 
 public class Date {
 

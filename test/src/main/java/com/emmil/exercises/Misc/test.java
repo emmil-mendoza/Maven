@@ -1,4 +1,4 @@
-package com.emmil;
+package com.emmil.exercises.Misc;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.emmil;
+package com.emmil.exercises.Dog;
 
 public class DogTest {
 
