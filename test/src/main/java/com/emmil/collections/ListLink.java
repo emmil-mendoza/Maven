@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 //import java.util.List;
 
-public class List {
+public class ListLink {
 
 	public static void main(String[] args) {
 		
@@ -22,3 +22,6 @@ public class List {
 	}
 
 }
+
+//LinkedList is better for manipulating data 
+//Can be used as list, stack or queue.
