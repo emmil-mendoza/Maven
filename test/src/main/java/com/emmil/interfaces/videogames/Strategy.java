@@ -1,4 +1,4 @@
-package com.emmil.interfaces;
+package com.emmil.interfaces.videogames;
 
 public class Strategy implements MobileGames, VideoGames {
    

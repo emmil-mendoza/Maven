@@ -1,9 +1,9 @@
 package com.emmil.collections;
 
-//import java.util.ArrayList;
+
 import java.util.Deque;
 import java.util.LinkedList;
-//import java.util.List;
+
 
 public class ListLink {
 
@@ -23,5 +23,10 @@ public class ListLink {
 
 }
 
-//LinkedList is better for manipulating data 
-//Can be used as list, stack or queue.
+/*
+-LinkedList is better for manipulating data 
+-Can be used as list, stack or queue.
+-Java LinkedList class can contain duplicate elements.
+-Java LinkedList class maintains insertion order.
+-Java LinkedList class is non synchronized.
+*/

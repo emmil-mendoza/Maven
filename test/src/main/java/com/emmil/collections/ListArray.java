@@ -1,10 +1,8 @@
 package com.emmil.collections;
 
 import java.util.ArrayList;
-//import java.util.Deque;
-//import java.util.LinkedList;
+import java.util.Iterator;
 import java.util.List;
-//import java.util.String;
 
 public class ListArray {
 
@@ -22,14 +20,25 @@ public class ListArray {
 
 		// System.out.println(colors);
 
-		for (int i = 0; i < colors.size(); i++) {
+		for (int i = 0; i < colors.size(); i++) {  //Iterate Method 1 
 
 			System.out.println(colors.get(i));
 
 		}
-		// System.out.println(colors.hashCode());
+		
+		Iterator<String> namesitr = colors.iterator(); //Iterate Method 2 
+		
+		while(namesitr.hasNext()) {
+			String name = namesitr.next();
+			System.out.println(name);
+		}
 	}
 }
 
-//ArrayList is better for storing and accessing data 
-//Allows random access 
+/*
+ 
+ -ArrayList is better for storing and accessing data
+ -Allows random access 
+ -Nonsynchronized
+ 
+ */
