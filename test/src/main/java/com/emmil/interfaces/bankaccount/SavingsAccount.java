@@ -1,6 +1,10 @@
 package com.emmil.interfaces.bankaccount;
 
+
 public class SavingsAccount implements BankAccount {
+	
+	
+
 
 	private String owner;
 	private double balance;
@@ -19,6 +23,7 @@ public class SavingsAccount implements BankAccount {
 		this.withdrawal = withdrawal;
 		this.annualInterestRate = annualInterestRate;
 		this.depositMonthlyInterest = depositMonthlyInterest;
+		this.accountNumber = accountNumber;
 	}
 
 	@Override
@@ -66,11 +71,12 @@ public class SavingsAccount implements BankAccount {
 	@Override
 	public Integer getAccountNumber() {
 
-		return hashCode();
+		return accountNumber;
 	}
 
 	public double getAnnualInterestRate() {
-		return annualInterestRate / 100;
+		
+		return annualInterestRate;
 	}
 
 	public void setAnnualInterestRate(double annualInterestRate) {
@@ -88,7 +94,7 @@ public class SavingsAccount implements BankAccount {
 	@Override
 	public String toString() {
 		return String.format(
-				"Bank Owner: %s,  Balance: %d, Deposit: %d, Withdrawal: %d, Annual Interest Rate: %d, Monthly Interest: %d, Account Number: %d ",
+				" Account Owner: %s \n Balance: $%.2f \n Deposit: $%.2f \n Withdrawal: $%.2f \n Annual Interest Rate: %.2f%% \n Monthly Interest: $%.2f \n Account Number: %d ",
 				owner, balance, deposit, withdrawal, annualInterestRate, depositMonthlyInterest, accountNumber);
 	}
 

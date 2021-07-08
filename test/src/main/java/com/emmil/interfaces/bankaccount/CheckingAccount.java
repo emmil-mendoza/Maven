@@ -68,7 +68,7 @@ public class CheckingAccount implements BankAccount {
 	@Override
 	public Integer getAccountNumber() {
 
-		return hashCode();
+		return accountNumber;
 	}
 
 	public double getInsufficientFundsFee() {
@@ -91,7 +91,7 @@ public class CheckingAccount implements BankAccount {
 	public String toString() {
 
 		return String.format(
-				"Bank Owner: %s,  Balance: %d, Deposit: %d, Withdrawal: %d, Insufficient Funds Fee: %d, Check: %s, Account Number: %d ",
+				" Account Owner: %s \n Balance: $%.2f \n Deposit: $%.2f \n Withdrawal: $%.2f \n Insufficient Funds Fee: $%.2f \n Check: %s \n Account Number: %d ",
 				owner, balance, deposit, withdrawal, insufficientFundsFee, processCheck, accountNumber);
 	}
 
