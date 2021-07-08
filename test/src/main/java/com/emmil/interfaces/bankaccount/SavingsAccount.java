@@ -66,7 +66,7 @@ public class SavingsAccount implements BankAccount {
 	@Override
 	public Integer getAccountNumber() {
 
-		return accountNumber;
+		return hashCode();
 	}
 
 	public double getAnnualInterestRate() {

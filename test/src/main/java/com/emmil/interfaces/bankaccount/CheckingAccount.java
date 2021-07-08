@@ -68,7 +68,7 @@ public class CheckingAccount implements BankAccount {
 	@Override
 	public Integer getAccountNumber() {
 
-		return accountNumber;
+		return hashCode();
 	}
 
 	public double getInsufficientFundsFee() {
